@@ -23,6 +23,8 @@
 - Intent-Aware Pedestrian Prediction, [https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf](https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf)
 - Relational Graph Learning, [https://arxiv.org/pdf/1909.13165.pdf](https://arxiv.org/pdf/1909.13165.pdf)
 - IAN, [http://ras.papercept.net/images/temp/IROS/files/1703.pdf](http://ras.papercept.net/images/temp/IROS/files/1703.pdf)
+- NAMOPlanner, [http://ras.papercept.net/images/temp/IROS/files/2179.pdf](http://ras.papercept.net/images/temp/IROS/files/2179.pdf)
+- ADWA, [http://ras.papercept.net/images/temp/IROS/files/2250.pdf](http://ras.papercept.net/images/temp/IROS/files/2250.pdf)
 
 ### Simulation Environments
 - AI HABITAT, [https://aihabitat.org/](https://aihabitat.org/)
