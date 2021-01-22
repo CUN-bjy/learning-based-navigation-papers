@@ -25,6 +25,8 @@
 - IAN, [http://ras.papercept.net/images/temp/IROS/files/1703.pdf](http://ras.papercept.net/images/temp/IROS/files/1703.pdf)
 - NAMOPlanner, [http://ras.papercept.net/images/temp/IROS/files/2179.pdf](http://ras.papercept.net/images/temp/IROS/files/2179.pdf)
 - ADWA, [http://ras.papercept.net/images/temp/IROS/files/2250.pdf](http://ras.papercept.net/images/temp/IROS/files/2250.pdf)
+- DeepMNavigate, [https://arxiv.org/pdf/1910.09441.pdf](https://arxiv.org/pdf/1910.09441.pdf)
+- learning local planner, [http://ras.papercept.net/images/temp/IROS/files/0122.pdf](http://ras.papercept.net/images/temp/IROS/files/0122.pdf)
 
 ### Simulation Environments
 - AI HABITAT, [https://aihabitat.org/](https://aihabitat.org/)
