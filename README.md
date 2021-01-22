@@ -1,5 +1,5 @@
 # learning-based-navigation-list
-
+### Related Works:
 - Reinforced Imitation, [https://arxiv.org/abs/1805.07095](https://arxiv.org/abs/1805.07095)
 - LLfN, [https://arxiv.org/abs/2007.14486](https://arxiv.org/abs/2007.14486)
 - DD-PPO, [https://arxiv.org/abs/1911.00357](https://arxiv.org/abs/1911.00357)
@@ -23,3 +23,7 @@
 - Intent-Aware Pedestrian Prediction, [https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf](https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf)
 - Relational Graph Learning, [https://arxiv.org/pdf/1909.13165.pdf](https://arxiv.org/pdf/1909.13165.pdf)
 - IAN, [http://ras.papercept.net/images/temp/IROS/files/1703.pdf](http://ras.papercept.net/images/temp/IROS/files/1703.pdf)
+
+### Simulation Environments
+- AI HABITAT, [https://aihabitat.org/](https://aihabitat.org/)
+- Gibson, [http://gibsonenv.stanford.edu/](http://gibsonenv.stanford.edu/)
