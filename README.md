@@ -46,3 +46,5 @@
 
 - AI HABITAT, [https://aihabitat.org/](https://aihabitat.org/)
 - Gibson, [http://gibsonenv.stanford.edu/](http://gibsonenv.stanford.edu/)
+- PedSim, [https://github.com/srl-freiburg/pedsim_ros](https://github.com/srl-freiburg/pedsim_ros)
+- FlatLand, [https://github.com/avidbots/flatland](https://github.com/avidbots/flatland)
