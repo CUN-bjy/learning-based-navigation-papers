@@ -15,6 +15,8 @@
 **Planning&Control**
 
 - Robot Navigation in Constrained Pedestrian Environments using Reinforcement Learning, **[`PAPER`](<https://arxiv.org/abs/2010.08600v1>)**
+- **[SA-CADRL]** Socially Aware Motion Planning with Deep Reinforcement Learning, **[`PAPER`](https://arxiv.org/pdf/1703.08862.pdf)**
+- **[GA3C-CADRL]** Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning(IROS2018),  **[`PAPER`](https://arxiv.org/abs/1805.01956)**
 - **[SARL]** Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning(ICRA2019), **[`PAPER`](<https://arxiv.org/abs/1809.08835>)**
 - **[SOADRL]** Robot Navigation in Crowded Environments Using Deep Reinforcement Learning(IROS2020), **[`PAPER`](<http://ras.papercept.net/images/temp/IROS/files/0386.pdf>)**
 - **IAN**: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments(IROS2020), **[`PAPER`](<http://ras.papercept.net/images/temp/IROS/files/1703.pdf>)**
