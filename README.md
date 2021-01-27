@@ -13,13 +13,13 @@
 - Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation, [**`PAPER`**](<https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf>)
 - Pedestrian Dominance Modeling for Socially-Aware Robot Navigation, [**`PAPER`**](<https://arxiv.org/abs/1810.06613>)
 - Hierarchical Robot Navigation in Novel Environments using Rough 2-D Maps, [**`PAPER`**](https://corlconf.github.io/paper_442/)
-- uncertainty-aware network, https://arxiv.org/pdf/1910.09998.pdf
+- Learning Resilient Behaviors for Navigation Under Uncertaint, **[`PAPER`](https://arxiv.org/pdf/1910.09998.pdf)**
 
 **Planning&Control**
 
 - Robot Navigation in Constrained Pedestrian Environments using Reinforcement Learning, [**`PAPER`**](<https://www.groundai.com/project/robot-navigation-in-constrained-pedestrian-environments-using-reinforcement-learning/1>)
-- **[SARL]**Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning, [**`PAPER`**](<https://arxiv.org/abs/1809.08835>)
-- **[SOADRL]**Robot Navigation in Crowded Environments Using Deep Reinforcement Learning, [**`PAPER`**](<http://ras.papercept.net/images/temp/IROS/files/0386.pdf>)
+- **[SARL]** Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning, [**`PAPER`**](<https://arxiv.org/abs/1809.08835>)
+- **[SOADRL]** Robot Navigation in Crowded Environments Using Deep Reinforcement Learning, [**`PAPER`**](<http://ras.papercept.net/images/temp/IROS/files/0386.pdf>)
 - **IAN**: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments, [**`PAPER`**](<http://ras.papercept.net/images/temp/IROS/files/1703.pdf>)
 - **[NeuralRMP]** Neural Autonomous Navigation with Riemannian Motion Policy, [**`PAPER`**](<https://arxiv.org/abs/1904.01762>)
 - **Reinforced Imitation**: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations, [**`PAPER`**](<https://arxiv.org/abs/1805.07095>)
