@@ -33,6 +33,10 @@
 - Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation(ICRA2020), **[`PAPER`](<https://intuitivecomputing.jhu.edu/publications/2020-icra-katyal.pdf>)**
 - **[PoliNet]** Deep Visual MPC-Policy Learning for Navigation(IROS2019), **[`PAPER`](<https://arxiv.org/pdf/1903.02749.pdf>)**
 - **DD-PPO**: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames(ICLR2020), **[`PAPER`](<https://arxiv.org/abs/1911.00357>)**
+- **[NAMO]** Modeling a Social Placement Cost to Extend Navigation among Movable Obstacles (NAMO) Algorithms(IROS2020), [**`PAPER`**](https://hal.archives-ouvertes.fr/hal-02912925/document)
+- Interactive Gibson Benchmark: A Benchmark for Interactive Navigation in Cluttered Environments(RA-L, ICRA2020), [**`PAPER`**](https://arxiv.org/abs/1910.14442)
+
+
 
 **Etc.**
 
@@ -41,6 +45,8 @@
 - Learning Navigation Behaviors End-to-End with AutoRL(RA-L,ICRA2019), **[`PAPER`](<https://arxiv.org/pdf/1809.10124.pdf>)**
 - A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies, **[`PAPER`](<https://arxiv.org/abs/1810.04871>)**
 - Hierarchical Robot Navigation in Novel Environments using Rough 2-D Maps(CoRL2020), **[`PAPER`](<https://corlconf.github.io/paper_442/>)**
+
+
 
 **Simulation:**
 
