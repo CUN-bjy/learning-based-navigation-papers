@@ -46,6 +46,7 @@
 
 - AI HABITAT, **[`LINK`](<https://aihabitat.org/>)**
 - Gibson, **[`LINK`](<http://gibsonenv.stanford.edu/>)**
+- iGibson(Gibson2), **[`LINK`](http://svl.stanford.edu/igibson/)**
 - PedSim, **[`LINK`](<https://github.com/srl-freiburg/pedsim_ros>)**
 - FlatLand, **[`LINK`](<https://github.com/avidbots/flatland>)**
 
