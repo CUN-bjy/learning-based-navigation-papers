@@ -55,6 +55,7 @@
 - iGibson(Gibson2), **[`LINK`](http://svl.stanford.edu/igibson/)**
 - PedSim, **[`LINK`](<https://github.com/srl-freiburg/pedsim_ros>)**
 - FlatLand, **[`LINK`](<https://github.com/avidbots/flatland>)**
+- simulators for crowd navigation review, [**`PAPER`**](https://urban-analytics.github.io/dust/docs/ped_sim_review.pdf)
 
 ------
 
