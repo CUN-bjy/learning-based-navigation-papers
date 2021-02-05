@@ -56,7 +56,8 @@
 - PedSim, **[`LINK`](<https://github.com/srl-freiburg/pedsim_ros>)**
 - FlatLand, **[`LINK`](<https://github.com/avidbots/flatland>)**
 - simulators for crowd navigation review, [**`PAPER`**](https://urban-analytics.github.io/dust/docs/ped_sim_review.pdf)
-
+- gym_ped_sim, **[`LINK`](https://github.com/onlytailei/gym_ped_sim)**
+- gym_style_gazebo, **[`LINK`](https://github.com/onlytailei/gym_style_gazebo)**
 ------
 
 **References:**
