@@ -35,7 +35,7 @@
 - **DD-PPO**: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames(ICLR2020), **[`PAPER`](<https://arxiv.org/abs/1911.00357>)**
 - **[NAMO]** Modeling a Social Placement Cost to Extend Navigation among Movable Obstacles (NAMO) Algorithms(IROS2020), [**`PAPER`**](https://hal.archives-ouvertes.fr/hal-02912925/document)
 - Interactive Gibson Benchmark: A Benchmark for Interactive Navigation in Cluttered Environments(RA-L, ICRA2020), [**`PAPER`**](https://arxiv.org/abs/1910.14442)
-
+- Socially Compliant Navigation through Raw Depth Inputs with Generative Adversarial Imitation Learning(ICRA2018), **[`PAPER`](https://arxiv.org/abs/1710.02543)**
 
 
 **Etc.**
