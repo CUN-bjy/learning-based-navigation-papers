@@ -20,6 +20,8 @@
 - **[SARL]** Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning(ICRA2019), **[`PAPER`](<https://arxiv.org/abs/1809.08835>)**
 - **[SOADRL]** Robot Navigation in Crowded Environments Using Deep Reinforcement Learning(IROS2020), **[`PAPER`](<http://ras.papercept.net/images/temp/IROS/files/0386.pdf>)**
 - **IAN**: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments(IROS2020), **[`PAPER`](<http://ras.papercept.net/images/temp/IROS/files/1703.pdf>)**
+- **NavRep**,Unsupervised Representations for Reinforcement Learning of
+Robot Navigation in Dynamic Human Environments, **[`PAPER`](https://arxiv.org/pdf/2012.04406.pdf)**
 - **[NeuralRMP]** Neural Autonomous Navigation with Riemannian Motion Policy(ICRA2019), **[`PAPER`](<https://arxiv.org/abs/1904.01762>)**
 - **Reinforced Imitation**: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations, **[`PAPER`](<https://arxiv.org/abs/1805.07095>)**
 - **DenseCAvoid**: Real-time Navigation in Dense Crowds using Anticipatory Behaviors, **[`PAPER`](<https://arxiv.org/pdf/2002.03038.pdf>)**
